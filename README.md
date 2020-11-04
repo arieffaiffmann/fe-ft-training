@@ -24,6 +24,15 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 4. Install [Git](https://git-scm.com/downloads)
 5. Install [Fork](https://git-fork.com/) (Git Client)
 
+## Agenda
+
+1. Visual Studio Code
+2. OData service document
+3. SAP Fiori Tools
+4. SAP Fiori Element – List Report
+5. SAP Fiori Element – Object Page
+6. SAP Fiori Element – Extension API
+
 ## Hands On Exercises
 
 1. [Create OData Service Document](https://vestapartners.sharepoint.com/:w:/s/DDCKL/EVNDaN_EKgpCiU6HcMJdBPoB5YPAIsrqBSPepsfQ9uiabQ?e=qnF9QF)
