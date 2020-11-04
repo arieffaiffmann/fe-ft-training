@@ -2,6 +2,13 @@
 
 This is a repository to host training contents for the SAP Fiori Elements using SAP Fiori Tools Training.
 
+## Participants
+
+#### GitHub Repositories
+
+| No. | Author | Committer Name / Email | Latest Commit / Date | Commits |
+| ---:| ------ | ---------------------- | -------------------- |:-------:|
+
 ## Prerequisites
 
 #### Accounts
