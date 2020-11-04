@@ -8,8 +8,6 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 
 | No. | Author | Committer Name / Email | Latest Commit / Date | Commits |
 | ---:| ------ | ---------------------- | -------------------- |:-------:|
-| 1. | [akmasaupe](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe) | Nor Akma / 48899269+akmasaupe@users.noreply.github.com | [Initial commit](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe&#x2F;dotfiles&#x2F;commit&#x2F;91ed2a4e8e65974f0ae362ed8f443c05f359f8f9) / Wed Nov 04 2020 | [1](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe&#x2F;dotfiles&#x2F;commits) |
-| 2. | [jcailan](https:&#x2F;&#x2F;github.com&#x2F;jcailan) | Jhodel Cailan / jhodel.cailan@gmail.com | [Updated theia config](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;dotfiles&#x2F;commit&#x2F;02559012db10bf31a6a8bad561656c7c13de23fd) / Sat Oct 24 2020 | [9](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;dotfiles&#x2F;commits) |
 
 ## Prerequisites
 

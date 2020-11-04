@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"lint": "eslint . --max-warnings 0 --fix",
 		"start": "node .",
-		"push": "node . && git add -A && git commit -a -m 'Update README.md file via npm script' && git push"
+		"push": "node . && git add -A && git commit -a -m \"Update README file via npm script\" && git fetch && git pull && git push"
 	},
 	"repository": {
 		"type": "git",
