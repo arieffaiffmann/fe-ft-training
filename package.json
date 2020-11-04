@@ -1,0 +1,32 @@
+{
+	"name": "fe-ft-training",
+	"version": "1.0.0",
+	"description": "SAP Fiori Element using SAP Fiori Tools Training",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"lint": "eslint . --max-warnings 0 --fix",
+		"start": "node .",
+		"push": "node . && git add -A && git commit -a -m 'Update README.md file via npm script' && git push"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nspro-vesta/fe-ft-training.git"
+	},
+	"keywords": [
+		"training"
+	],
+	"author": "Jhodel Cailan",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/nspro-vesta/fe-ft-training/issues"
+	},
+	"homepage": "https://github.com/nspro-vesta/fe-ft-training#readme",
+	"dependencies": {
+		"mustache": "^4.0.1",
+		"then-request": "^6.0.2"
+	},
+	"devDependencies": {
+		"eslint": "^7.12.1"
+	}
+}
