@@ -26,4 +26,4 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 
 ## Hands On Exercises
 
-1. Create OData Service Document [Task 1](https://vestapartners.sharepoint.com/:w:/s/DDCKL/EVNDaN_EKgpCiU6HcMJdBPoB5YPAIsrqBSPepsfQ9uiabQ?e=qnF9QF)
+1. [Create OData Service Document](https://vestapartners.sharepoint.com/:w:/s/DDCKL/EVNDaN_EKgpCiU6HcMJdBPoB5YPAIsrqBSPepsfQ9uiabQ?e=qnF9QF)
