@@ -23,3 +23,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 3. Install [SAP Fiori Tools](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack) VS Code extension
 4. Install [Git](https://git-scm.com/downloads)
 5. Install [Fork](https://git-fork.com/) (Git Client)
+
+## Hands On Exercises
+
+1. Create OData Service Document [Task 1](https://vestapartners.sharepoint.com/:w:/s/DDCKL/EVNDaN_EKgpCiU6HcMJdBPoB5YPAIsrqBSPepsfQ9uiabQ?e=qnF9QF)
