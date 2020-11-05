@@ -19,7 +19,7 @@ const getCommits = async () => {
 		const item = {};
 		let response = null;
 
-		response = await request("GET", Github.getCommitUrl(user, "dotfiles"), {
+		response = await request("GET", Github.getCommitUrl(user, "fiori-element"), {
 			headers: {
 				"User-Agent": "then-request"
 			}
