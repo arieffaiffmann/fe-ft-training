@@ -6,6 +6,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 
 | No. | Author | Committer Name / Email | Latest Commit / Date | Commits |
 | ---:| ------ | ---------------------- | -------------------- |:-------:|
+| 1. | [jcailan](https:&#x2F;&#x2F;github.com&#x2F;jcailan) | Jhodel Cailan / jhodel.cailan@gmail.com | [Fixed documentation (#3)](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;fiori-element&#x2F;commit&#x2F;d7c3e6f4dd85300dcd6c99eee45b6794eb538154) / Thu Nov 05 2020 | [4](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
 
