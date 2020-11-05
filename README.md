@@ -35,7 +35,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 
 ## Hands On Exercises
 
-1. Tutorial - [Create OData Service Document](https://developers.sap.com/tutorials/hcp-webide-create-odata-model.html)
-2. Exercise - [Create OData Service Document](https://vestapartners.sharepoint.com/:w:/s/DDCKL/EVNDaN_EKgpCiU6HcMJdBPoB5YPAIsrqBSPepsfQ9uiabQ?e=qnF9QF)
-3. Tutorial - [Create SAP Fiori Elements App](https://developers.sap.com/group.fiori-tools-lrop.html)
-4. Exercise - [Create SAP Fiori Elements App](https://vestapartners.sharepoint.com/:w:/s/DDCKL/ETRmhC4K4BJJl0wMSz0SOBcBYMWdVYizq33GkWmmzZEFgA?e=p0Nh7H)
+1. Tutorial - Create OData Service Document
+2. Exercise - Create OData Service Document
+3. Tutorial - Create SAP Fiori Elements App
+4. Exercise - Create SAP Fiori Elements App
